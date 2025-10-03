@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net10.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>d06bc48a-c542-48ad-a7ae-de76d4964654</UserSecretsId>
+	</PropertyGroup>
+
+	
+
+	<ItemGroup>
+	  <ProjectReference Include="..\ConfluenceRAG.Data\ConfluenceRAG.Data.csproj" />
+	</ItemGroup>
+</Project>

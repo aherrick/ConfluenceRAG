@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConfluenceRAG.Data/ConfluenceRAG.Data.csproj" Id="add5ede2-a591-4831-94e4-0855c696eeb6" />
+  <Project Path="ConfluenceRAG.Tests/ConfluenceRAG.Tests.csproj" Id="46795e38-67d1-4824-92f0-dfe9ab3e2284" />
+  <Project Path="ConfluenceRAG/ConfluenceRAG.csproj" />
+</Solution>
